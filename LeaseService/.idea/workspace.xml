@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7748776b-a3c0-425b-969e-92e668b2de30" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Daniel-Ugulino&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Daniel-Ugulino/parceiroCerto.git&quot;,
+    &quot;accountId&quot;: &quot;37437690-b4df-46f0-be6f-cbef43edc7a8&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kZFLkuqEjCNWSKQuV44SUiiOnu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Dockerfile.executor": "Run",
+    "JUnit.CategoryServiceTest.executor": "Run",
+    "JUnit.CategoryServiceTest.save.executor": "Run",
+    "JUnit.CategoryServiceTest.update.executor": "Run",
+    "JUnit.RequestServiceTest.executor": "Run",
+    "JUnit.RequestServiceTest.update.executor": "Run",
+    "JUnit.TaskServiceTest.executor": "Run",
+    "JUnit.TaskServiceTest.save.executor": "Run",
+    "JUnit.TaskServiceTest.update.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.RequestServiceApplication.executor": "Run",
+    "Spring Boot.TaskServiceApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/daniel/Novo volume/Infnet/Projeto de Bloco Engenharia de Softwares Escalaveis/Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java/AT/ItemService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/taskservice/Producer" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/taskservice/Audit" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.taskservice.Service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.requestservice.Dto" />
+      <recent name="com.example.taskservice.Producer" />
+      <recent name="com.example.taskservice.Client.ResponseDto" />
+      <recent name="com.example.taskservice.Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ItemServiceApplication">
+    <configuration name="CategoryServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ItemService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.requestservice.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.taskservice.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.taskservice.Service.CategoryServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ItemService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.requestservice.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.taskservice.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.requestservice.Service.RequestServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestServiceTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ItemService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.requestservice.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.taskservice.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.requestservice.Service.RequestServiceTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ItemService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.requestservice.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.taskservice.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.taskservice.Service.TaskServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OrderService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OrderService" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="DBHOST" value="localhost" />
+        <env name="DBPASSWORD" value="ugulino10" />
+        <env name="DBPORT" value="5432" />
+        <env name="DBSOURCE" value="parceiroCertoDB" />
+        <env name="DBUSER" value="postgres" />
+        <env name="DTSOURCE" value="src/main/java/com/example/requestservice/Dataloader/Data/" />
+        <env name="EUREKASERVER" value="http://localhost:8761/eureka/" />
+        <env name="RBHOST" value="localhost" />
+        <env name="RBPASSWORD" value="guest" />
+        <env name="RBPORT" value="5672" />
+        <env name="RBUSER" value="guest" />
+      </envs>
+      <module name="ItemService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.requestservice.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="JUnit.CategoryServiceTest" />
+      <item itemvalue="JUnit.RequestServiceTest" />
+      <item itemvalue="JUnit.RequestServiceTest.update" />
+      <item itemvalue="JUnit.TaskServiceTest" />
+      <item itemvalue="Spring Boot.ItemServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="JUnit.TaskServiceTest" />
+        <item itemvalue="JUnit.CategoryServiceTest" />
+        <item itemvalue="JUnit.RequestServiceTest" />
+        <item itemvalue="JUnit.RequestServiceTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7748776b-a3c0-425b-969e-92e668b2de30" name="Changes" comment="" />
+      <created>1723483139997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723483139997</updated>
+      <workItem from="1723483141075" duration="271000" />
+      <workItem from="1724017741904" duration="28769000" />
+      <workItem from="1724256998935" duration="5854000" />
+      <workItem from="1724332246395" duration="23536000" />
+      <workItem from="1724460882484" duration="2000" />
+      <workItem from="1724506403513" duration="229000" />
+      <workItem from="1724506957758" duration="726000" />
+      <workItem from="1724509818151" duration="1656000" />
+      <workItem from="1724553545559" duration="951000" />
+      <workItem from="1724600010611" duration="3000" />
+      <workItem from="1724600119367" duration="9301000" />
+      <workItem from="1724715975541" duration="323000" />
+      <workItem from="1724717244093" duration="1646000" />
+      <workItem from="1724719581009" duration="60000" />
+      <workItem from="1724720949801" duration="417000" />
+      <workItem from="1724721623311" duration="2771000" />
+      <workItem from="1724806396922" duration="162000" />
+      <workItem from="1724883744179" duration="10945000" />
+      <workItem from="1724943596887" duration="8255000" />
+      <workItem from="1725027891340" duration="19000" />
+      <workItem from="1725029997108" duration="16000" />
+      <workItem from="1725030052699" duration="57000" />
+      <workItem from="1725030814576" duration="1419000" />
+      <workItem from="1725071201338" duration="14000" />
+      <workItem from="1725072127103" duration="4765000" />
+      <workItem from="1725077621691" duration="793000" />
+      <workItem from="1725298070278" duration="2635000" />
+      <workItem from="1725312289640" duration="12000" />
+      <workItem from="1725321038504" duration="1649000" />
+      <workItem from="1725322711178" duration="7000" />
+      <workItem from="1725322725599" duration="1010000" />
+      <workItem from="1725323920348" duration="2541000" />
+      <workItem from="1725408376513" duration="5913000" />
+      <workItem from="1725420408350" duration="2463000" />
+      <workItem from="1725423556942" duration="517000" />
+      <workItem from="1725474410322" duration="6767000" />
+      <workItem from="1725500903077" duration="49000" />
+      <workItem from="1725501111294" duration="34000" />
+      <workItem from="1725505230476" duration="255000" />
+      <workItem from="1725506230298" duration="460000" />
+      <workItem from="1725581047567" duration="3687000" />
+      <workItem from="1725587651080" duration="6089000" />
+      <workItem from="1725595627705" duration="105000" />
+      <workItem from="1725900470271" duration="16000" />
+      <workItem from="1725900893660" duration="1203000" />
+      <workItem from="1725904554814" duration="821000" />
+      <workItem from="1725909102440" duration="10000" />
+      <workItem from="1725931565132" duration="375000" />
+      <workItem from="1726012826071" duration="17000" />
+      <workItem from="1726080390188" duration="55000" />
+      <workItem from="1726080777076" duration="650000" />
+      <workItem from="1726084361351" duration="256000" />
+      <workItem from="1726084746829" duration="4237000" />
+      <workItem from="1726089156008" duration="1138000" />
+      <workItem from="1726090846249" duration="636000" />
+      <workItem from="1726109223913" duration="1050000" />
+      <workItem from="1726622442794" duration="1231000" />
+      <workItem from="1726636529464" duration="128000" />
+      <workItem from="1726721383563" duration="12000" />
+      <workItem from="1726723264619" duration="536000" />
+      <workItem from="1726768327817" duration="851000" />
+      <workItem from="1726769699792" duration="1858000" />
+      <workItem from="1726780978550" duration="15000" />
+      <workItem from="1726789007572" duration="13000" />
+      <workItem from="1726796296398" duration="887000" />
+      <workItem from="1726869766051" duration="362000" />
+      <workItem from="1726932374543" duration="3723000" />
+      <workItem from="1726936576660" duration="3484000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: small fix">
+      <option name="closed" value="true" />
+      <created>1726797064334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726797064334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: small fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: small fix" />
+  </component>
+</project>

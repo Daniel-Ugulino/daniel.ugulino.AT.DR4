@@ -1,0 +1,24 @@
+package com.example.rentService.Producer;
+
+import com.example.rentService.Dto.RentProducerDto;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.springframework.amqp.rabbit.core.RabbitTemplate;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class CompanyProducer {
+    @Autowired
+    private RabbitTemplate rabbitTemplate;
+
+    private final ObjectMapper objectMapper = new ObjectMapper();
+
+    public void sendMessage(RentProducerDto rentProducerDto) throws JsonProcessingException {
+        rabbitTemplate.convertAndSend(
+                "rent-exchange",
+                "company-routing-key",
+                objectMapper.writeValueAsString(rentProducerDto)
+        );
+    }
+}
