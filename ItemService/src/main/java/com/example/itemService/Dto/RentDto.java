@@ -12,4 +12,5 @@ public class RentDto {
     private Long companyId;
     private Long itemId;
     private Integer amount;
+    private Boolean restore;
 }

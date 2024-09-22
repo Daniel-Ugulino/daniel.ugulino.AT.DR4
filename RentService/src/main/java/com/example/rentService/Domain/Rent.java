@@ -19,7 +19,7 @@ public class Rent {
     private Long companyId;
     private Long itemId;
     @Enumerated(EnumType.STRING)
-    private Status type;
+    private Status status = Status.ORDED;
     private Integer amount;
     private Double totalPrice;
 }

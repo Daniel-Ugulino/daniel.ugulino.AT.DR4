@@ -51,8 +51,10 @@ public class ItemService {
         Optional<Item> itemOptional = itemRepository.findById(rentDto.getItemId());
         if(itemOptional.isPresent()){
             Item itemEntity = itemOptional.get();
-            System.out.println(itemEntity.getAmount() >= rentDto.getAmount());
-            if(itemEntity.getAmount() >= rentDto.getAmount()){
+            if(rentDto.getRestore() && itemEntity.getAmount() >= rentDto.getAmount())
+            {
+                itemEntity.setAmount(itemEntity.getAmount() + rentDto.getAmount());
+            }else{
                 itemEntity.setAmount(itemEntity.getAmount() - rentDto.getAmount());
             }
             itemRepository.save(itemEntity);
